@@ -12,7 +12,7 @@ In building this dashboard, I created the following consisting of a total of 7 p
 
     o	A Link to each visualization page (4 total) with a sidebar containing preview images of each plot which will take you directly to that specific                 visualization page once clicked
     
-(The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/index.html)
+(The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/index.html )
 
   -	Four Visualization Pages, each with:
 
@@ -32,13 +32,23 @@ In building this dashboard, I created the following consisting of a total of 7 p
 
 (The HTMLs for these pages can be found here: 
 
-https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/temp.html)
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/temp.html
 
-https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/humidity.html)
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/humidity.html
 
-https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/cloudiness.html)
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/cloudiness.html
 
-https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/windspeed.html)
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/windspeed.html )
+
+
+-	A Comparison Page:
+
+  o	Contains all the visualizations (scatter plots) on the same page so that we can visually compare them
+
+  o	A Bootstrap grid was used for this page
+
+(The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/comparison.html )
+
 
 
 
