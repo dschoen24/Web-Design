@@ -9,6 +9,7 @@ In building this dashboard, I created the following consisting of a total of 7 p
   -	A Landing Page
 
     o	An Explanation of my project
+
     o	A Link to each visualization page (4 total) with a sidebar containing preview images of each plot which will take you directly to that specific                 visualization page once clicked
     
 (The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/index.html)
