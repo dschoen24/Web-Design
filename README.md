@@ -14,4 +14,31 @@ In building this dashboard, I created the following consisting of a total of 7 p
     
 (The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/index.html)
 
+  -	Four Visualization Pages, each with:
+
+    o	A descriptive title and heading tag
+
+    o	The Scatter Plot/Visualization itself for the selected comparison
+
+    o	A Paragraph describing the scatter plot and its significance
+
+      	Page for Latitude vs. Temperature Scatter Plot
+
+      	Page for Latitude vs. Humidity Scatter Plot
+
+      	Page for Latitude vs. Cloudiness Scatter Plot
+
+      	Page for Latitude vs. Wind Speed Scatter Plot
+
+(The HTMLs for these pages can be found here: 
+
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/temp.html)
+
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/humidity.html)
+
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/cloudiness.html)
+
+https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/windspeed.html)
+
+
 
