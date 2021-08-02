@@ -22,13 +22,13 @@ In building this dashboard, I created the following consisting of a total of 7 p
 
     o	A Paragraph describing the scatter plot and its significance
 
-       	Page for Latitude vs. Temperature Scatter Plot
+           	Page for Latitude vs. Temperature Scatter Plot
 
-       	Page for Latitude vs. Humidity Scatter Plot
+           	Page for Latitude vs. Humidity Scatter Plot
 
-       	Page for Latitude vs. Cloudiness Scatter Plot
+           	Page for Latitude vs. Cloudiness Scatter Plot
 
-       	Page for Latitude vs. Wind Speed Scatter Plot
+           	Page for Latitude vs. Wind Speed Scatter Plot
 
 (The HTMLs for these pages can be found here: 
 
