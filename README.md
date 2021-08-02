@@ -49,6 +49,18 @@ https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/wi
 
 (The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/comparison.html )
 
+-	A Data Page:
+
+  o	This page displays a responsive table containing all the data that was used in the visualizations (table is a Bootstrap table component)
+
+  o	The Data came from exporting a csv file as HTML using Pandas
+
+(The HTML for this page can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/data.html )
+
+
+The CSV file used for this webpage can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/Resources/cities.csv )
+
+The actual Visualizations used for this webpage can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/Assets )
 
 
 
