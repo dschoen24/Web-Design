@@ -1,5 +1,3 @@
-**Web-Design-Project**
-
 **Web Design – Web Visualization**
 
 **Background:**
