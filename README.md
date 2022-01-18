@@ -61,4 +61,10 @@ The CSV file used for this webpage can be found here: https://github.com/dschoen
 The actual Visualizations used for this webpage can be found here: https://github.com/dschoen24/Web-Design-Challenge/tree/main/WebVisualizations/Assets )
 
 
+__________________________________________________________________________________________________________________________________________________________
 
+Contact: Debra Potts
+
+Email:  dschoenstl24@gmail.com
+
+LinkedIn:  www.linkedin.com/in/dschoenpotts
